@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+.event {
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+p {
+    font-size: 16px;
+}
+/* temporary test change */
